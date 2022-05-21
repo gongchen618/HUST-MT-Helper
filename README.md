@@ -1,4 +1,4 @@
-# HUST-MT-Helper
+# HUST-MT-Helper 
 HUST 军理线上作业简易自动填充答案油猴脚本（计科 21 可用）
 
 安装这个脚本之后，在作业页面的右下角会出现一个 Button，按就完了
@@ -9,4 +9,4 @@ HUST 军理线上作业简易自动填充答案油猴脚本（计科 21 可用�
 
 ps.这人不会写前端，凑合着用吧x
 
-**Welcome Stars & Issues & Pull Requests**
+**Welcome Stars:star: & Issues & Pull Requests**
