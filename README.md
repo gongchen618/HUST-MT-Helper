@@ -9,4 +9,4 @@ HUST 军理线上作业简易自动填充答案油猴脚本（计科 21 可用�
 
 ps.这人不会写前端，凑合着用吧x
 
-**支持PR**
+**Welcome Stars & Issues & Pull Requests**
